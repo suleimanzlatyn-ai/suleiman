@@ -1,0 +1,8 @@
+node_modules
+.vercel
+.tanstack
+.env
+.env.*
+dist
+*.log
+.grok/skills
